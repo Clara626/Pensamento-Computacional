@@ -1,2 +1,3 @@
 # Pensamento-Computacional
-Arquivos relacionados ao modulo1 do curso de jogos oferecido pela Softex utilizando Scratch
+Arquivos Relacionados ao Modulo 1 do Curso de Jogos oferecido pela Softex 
+utilizando Scratch
